@@ -1,6 +1,6 @@
-public class Hellos{
+public class Hello{
 	public static void main(String args[]){
-		system.out.println("Hello modified");
+		System.out.println("Hello modified");
 	}
 }
 
